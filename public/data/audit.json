@@ -1,0 +1,95 @@
+{
+  "source": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-2025.html",
+  "sourceFile": "N02-25_Station.geojson",
+  "license": "CC BY 4.0",
+  "stationFeatureCount": 10234,
+  "stampCount": 1080,
+  "placed": 1068,
+  "unplaced": 12,
+  "issues": [
+    {
+      "id": "s1063",
+      "name": "HIGH RAIL 1375",
+      "operator": "JR東日本",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1064",
+      "name": "TOKIトレイン",
+      "operator": "えちごトキめき鉄道",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1065",
+      "name": "青梅鉄道公園",
+      "operator": "JR東日本",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1066",
+      "name": "車内(城北線)",
+      "operator": "東海交通事業",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1067",
+      "name": "定期券・回数券うりば(城北線)",
+      "operator": "東海交通事業",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1068",
+      "name": "那覇駅",
+      "operator": "沖縄県鉄道",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1069",
+      "name": "リゾートしらかみ 青池",
+      "operator": "JR東日本",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1070",
+      "name": "リゾートしらかみ 橅",
+      "operator": "JR東日本",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1071",
+      "name": "来館記念(地下鉄博物館)",
+      "operator": "地下鉄博物館",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1072",
+      "name": "来館記念(地下鉄博物館)",
+      "operator": "地下鉄博物館",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1073",
+      "name": "リゾートビューふるさと",
+      "operator": "JR東日本",
+      "reason": "train or facility design",
+      "candidates": []
+    },
+    {
+      "id": "s1074",
+      "name": "ゆめぞら",
+      "operator": "北越急行",
+      "reason": "train or facility design",
+      "candidates": []
+    }
+  ]
+}
