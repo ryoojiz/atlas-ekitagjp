@@ -441,14 +441,14 @@ function MapView({
                 s.stamps.length > 1 ? `${s.stamps.length}` : "";
               const stem = document.createElement("span");
               stem.className = "pin-stem";
-              const foot = document.createElement("span");
-              foot.className = "pin-foot";
+              // const foot = document.createElement("span");
+              // foot.className = "pin-foot";
               const label = document.createElement("span");
               label.className = "pin-label";
               label.textContent = s.name;
               const body = document.createElement("span");
               body.className = "pin-body";
-              body.append(card, count, stem, foot, label);
+              body.append(card, count, stem, label);
               el.append(body);
               el.addEventListener("click", (ev) => {
                 ev.stopPropagation();
@@ -1094,9 +1094,6 @@ export default function App() {
             <span>
               <Settings2 size={17} /> Map display
             </span>
-            <Badge variant="soft" color="jade">
-              LIGHT MAP
-            </Badge>
           </div>
           <div className="slider-row">
             <span>Stamp size</span>
